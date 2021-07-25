@@ -3,7 +3,7 @@
 # License: MIT
 
 import requests, json, datetime, warnings
-from .technicals import Compute
+from technicals import Compute
 
 __version__ = "3.2.7"
 
