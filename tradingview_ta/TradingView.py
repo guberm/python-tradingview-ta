@@ -5,7 +5,7 @@ from main import TA_Handler, Interval, Exchange
 #https://python-tradingview-ta.readthedocs.io/en/latest/usage.html
 
 stock_symb = 'FRII'
-intervalO = 'daily'
+intervalO = 'monthly'
 market = 'TSX'
 intervalN = ''
 country = 'canada'
